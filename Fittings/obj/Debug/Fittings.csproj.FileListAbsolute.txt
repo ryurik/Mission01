@@ -1,0 +1,6 @@
+C:\RYurik\Projects\.Net1-Epam-\Mission01\Fittings\bin\Debug\Fittings.exe.config
+C:\RYurik\Projects\.Net1-Epam-\Mission01\Fittings\bin\Debug\Fittings.exe
+C:\RYurik\Projects\.Net1-Epam-\Mission01\Fittings\bin\Debug\Fittings.pdb
+C:\RYurik\Projects\.Net1-Epam-\Mission01\Fittings\obj\Debug\Fittings.exe
+C:\RYurik\Projects\.Net1-Epam-\Mission01\Fittings\obj\Debug\Fittings.pdb
+C:\RYurik\Projects\.Net1-Epam-\Mission01\Fittings\obj\Debug\Fittings.csprojResolveAssemblyReference.cache

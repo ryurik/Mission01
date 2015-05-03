@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Fittings.BaseItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAQAAAIAAAAAAAASAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Fittings.ComplexItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCIAAAAAAAACABAQAAAABAQAQBAAAAAAAAAAAABQIAA=</HashCode>
+      <FileName>ComplexItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Fittings.ItemsComparerByIncomeDate" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ItemsComparerByIncomeDate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Fittings.Store" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAACAAAAABAQAAAQBAQAAAAAAQAAAAAAAABQIAA=</HashCode>
+      <FileName>Store.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Fittings.Ship" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fittings.HeavyParts">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeavyParts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fittings.AtomParts" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQACAAAQAAAIAAAAAAAAQAACAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AtomParts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Struct Name="Fittings.Dimension" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABAAAAAAAAAgAAEBAAAAAiAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Dimension.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Fittings.IBaseItem">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAQAAAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBaseItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Fittings.IStaticItem">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAACAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IStaticItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Fittings.IPartsItem">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPartsItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Fittings.IComplexItem">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IComplexItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Fittings.IAtomItem">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAtomItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Fittings.TypeOfStories" Collapsed="true">
+    <Position X="13.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>TypeOfStories.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Fittings.TypeOfParts" Collapsed="true">
+    <Position X="11.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAEAIAAAAAAAAA=</HashCode>
+      <FileName>TypeOfParts.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Fittings.TypeOfSuppliers" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>TypeOfSuppliers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Fittings.ExternalSuppliers" Collapsed="true">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ExternalSuppliers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
